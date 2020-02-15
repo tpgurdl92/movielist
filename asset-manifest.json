@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tpgurdl92/movielist.git/static/css/main.413d4422.chunk.css",
+    "main.js": "/tpgurdl92/movielist.git/static/js/main.2d426170.chunk.js",
+    "main.js.map": "/tpgurdl92/movielist.git/static/js/main.2d426170.chunk.js.map",
+    "runtime-main.js": "/tpgurdl92/movielist.git/static/js/runtime-main.bb032826.js",
+    "runtime-main.js.map": "/tpgurdl92/movielist.git/static/js/runtime-main.bb032826.js.map",
+    "static/js/2.2b2117cd.chunk.js": "/tpgurdl92/movielist.git/static/js/2.2b2117cd.chunk.js",
+    "static/js/2.2b2117cd.chunk.js.map": "/tpgurdl92/movielist.git/static/js/2.2b2117cd.chunk.js.map",
+    "index.html": "/tpgurdl92/movielist.git/index.html",
+    "precache-manifest.63b093d25d9a718a70f28b8b24ba2545.js": "/tpgurdl92/movielist.git/precache-manifest.63b093d25d9a718a70f28b8b24ba2545.js",
+    "service-worker.js": "/tpgurdl92/movielist.git/service-worker.js",
+    "static/css/main.413d4422.chunk.css.map": "/tpgurdl92/movielist.git/static/css/main.413d4422.chunk.css.map",
+    "static/js/2.2b2117cd.chunk.js.LICENSE.txt": "/tpgurdl92/movielist.git/static/js/2.2b2117cd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tpgurdl92/movielist.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb032826.js",
+    "static/js/2.2b2117cd.chunk.js",
+    "static/css/main.413d4422.chunk.css",
+    "static/js/main.2d426170.chunk.js"
+  ]
+}
